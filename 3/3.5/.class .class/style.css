@@ -1,0 +1,4 @@
+/* Chọn tất cả các thẻ có class="name2" là con của 1 phần tử có class="name1" */
+.box .title{
+    color:red;
+}

@@ -1,0 +1,12 @@
+/* Gọi thẻ h1 chính là selector */
+h1{
+    color: red;
+}
+/* Khi selec tới id nào đấy ta dùng dấu # */
+#firt-heading {
+    color: green;
+}
+/* Khi selec tới class là dấu chấm */
+.second-heading{
+    color:red;
+}
