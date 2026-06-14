@@ -1,4 +1,7 @@
-
-.box .title{
+/* Dấu sao chọn tất cả các thẻ */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     color:red;
 }

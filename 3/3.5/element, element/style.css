@@ -1,0 +1,15 @@
+/* Chọn tất cả thẻ div và h2 */
+
+.title1{
+    font-style: italic;
+}
+.title2{
+    text-decoration: underline;
+}
+.title3{
+    text-decoration: line-through;
+}
+
+.title1, .title2, .title3{
+    color:red;
+}

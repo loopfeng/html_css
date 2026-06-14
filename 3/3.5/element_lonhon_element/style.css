@@ -1,0 +1,6 @@
+
+/* Chọn tất cả thẻ p là con trực tiếp của thẻ div */
+
+.box > .title{
+    color:red;
+}
