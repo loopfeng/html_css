@@ -1,0 +1,11 @@
+html{
+    color:violet;
+}
+/* Thêm 1 thuộc tính important đặc biệt ưu tiên > 1000 */
+h1{
+    color:red !important;
+}
+
+h1{
+    color:green;
+}
