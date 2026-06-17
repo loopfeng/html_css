@@ -1,0 +1,15 @@
+/**
+* Mở tab TRÌNH DUYỆT và thử thay đổi
+* giá trị font-size ở đây để khám phá bạn nhé
+*/
+#heading {
+    font-size: 30px;
+}
+
+.sub-heading {
+    font-size: 6px;
+}
+
+.text, ol li {
+    font-size: 25px;
+}

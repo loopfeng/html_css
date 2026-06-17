@@ -1,0 +1,22 @@
+/**
+* Mở tab TRÌNH DUYỆT và thử thay đổi
+* giá trị font-size ở đây để khám phá bạn nhé.
+*
+* Nếu bạn thắc mắc về con số 62.5% thì nãy đọc
+* giải thích bên tab NỘI DUNG nhé.
+*/
+html {
+    font-size: 1rem;
+}
+
+#heading {
+    font-size: 2rem;
+}
+
+.sub-heading {
+    font-size: 1.6rem;
+}
+
+.text, ol li {
+    font-size: 1.4rem;
+}

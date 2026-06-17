@@ -1,4 +1,7 @@
 /* .box-1 không có chiều cao, vì .parent-1 mặc định height: auto */
+*{
+    margin: 0;
+}
 .parent-1 .box-1 {
     height: 30%;
     background-color: green;
