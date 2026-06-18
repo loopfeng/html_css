@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.box{
+    background-color: purple;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    /* Căn trên dưới của phần chữ */
+    align-items: center;
+    /* Căn trái phải của phần chữ */
+    justify-content: center;
+    padding: 16px;
+    border: solid #333;
+    box-sizing: border-box;
+}
