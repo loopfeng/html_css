@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+.box{
+    width: 300px;
+    height: 500px;
+    background-size: contain;
+    background-image: url(https://fullstack.edu.vn/assets/images/f8_avatar.png);
+    background-repeat: no-repeat;
+}
